@@ -1,11 +1,11 @@
 using UnityEngine;
 
 namespace Scripts.Characters {
-    public abstract class StateProvider {
+    public class StateProvider {
         public StateCharacter CurrentState { get; protected set; }
         protected Character _character;
 
-        protected StateProvider(Character character) {
+        public StateProvider(Character character) {
             _character = character;
         }
 

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 namespace Scripts.Characters {
-	public class WaterElement : Element {
+    public abstract class AnimationController {
 
 	} 
 }

@@ -2,7 +2,7 @@
 using UnityEngine;
 
 namespace Scripts.Characters {
-    public class GroundElement : IElement {
+    public class GroundElement : Element {
 
     }
 }

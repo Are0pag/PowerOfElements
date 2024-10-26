@@ -2,7 +2,7 @@
 using UnityEngine;
 
 namespace Scripts.Characters {
-    public class FireElement : Element {
+    public class WaterCharacter : Character {
 
     }
 }

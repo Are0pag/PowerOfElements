@@ -2,7 +2,7 @@
 using UnityEngine;
 
 namespace Scripts.Characters {
-    public class WindElement : IElement {
+    public class WindElement : Element {
 
     }
 }

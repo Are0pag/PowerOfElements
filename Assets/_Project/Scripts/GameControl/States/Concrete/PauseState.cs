@@ -1,7 +1,7 @@
 ﻿
 
 namespace Scripts.GameControl {
-    public class Pause {
+    public class PauseState {
 
     }
 }

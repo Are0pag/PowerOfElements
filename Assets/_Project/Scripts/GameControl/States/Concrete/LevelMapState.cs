@@ -2,7 +2,7 @@
 using UnityEngine;
 
 namespace Scripts.GameControl {
-    public class LevelMap {
+    public class LevelMapState {
 
     }
 }

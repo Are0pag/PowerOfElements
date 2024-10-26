@@ -1,7 +1,7 @@
 ﻿
 
 namespace Scripts.GameControl {
-    public class Menu {
+    public class MenuState {
 
     }
 }
